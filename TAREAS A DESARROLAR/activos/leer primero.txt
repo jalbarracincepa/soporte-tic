@@ -1,3 +1,0 @@
-
-revisar los gastos de los empleados , realizar la respectiva suma y  renombrar la carpeta activos a (gastos) y tareas a (corpuandes)
-att coordinador
